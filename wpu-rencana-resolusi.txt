@@ -1,0 +1,4 @@
+rencana resolusi
+- javascript
+ *ES6
+- php framework
